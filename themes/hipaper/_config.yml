@@ -34,7 +34,7 @@ about_big_image: [css/images/pose01.jpg, https://source.unsplash.com/collection/
 
 
 # Homepage thumbnail
-random_thumb: true
+random_thumb: false
 
 # Content
 fancybox: true
